@@ -34,7 +34,7 @@ gem 'rails-trash', github: 'fesplugas/rails-trash'
 gem 'ckeditor-rails', github: 'fesplugas/rails-ckeditor'
 
 # Alternative authentication
-gem 'devise', '~> 4.2.0'
+gem 'devise', '~> 4.3.0'
 
 # Asset Management
 gem 'dragonfly', '~> 1.0.12'
